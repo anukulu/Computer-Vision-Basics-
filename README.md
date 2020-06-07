@@ -1,5 +1,6 @@
 # Computer-Vision-Basics-
-Implementing a few basic computer vision algorithms using python 
+Implementing a few basic computer vision algorithms using python. These are meant for learning purposes and anyone who wishes to learn
+these algorithms can go through the code and understand it without much effort.
 
 1. Canny Edge Detector
   This algorithms has been implemented using PIL library and numpy. 
