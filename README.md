@@ -10,4 +10,7 @@ these algorithms can go through the code and understand it without much effort.
   Non maximum supression algorithm was implemented to remove the less relevant pixels.
   Double thresholding and hysteresis were done to find pixels that seemed non relevant but were part of the main edges as well as to
     reduce non-relevent pixels.
+    
+    
+Run main.py to see results with any image you want.
    
